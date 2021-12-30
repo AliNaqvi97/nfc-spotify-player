@@ -1,2 +1,2 @@
-# nfc-spotify-player
+# NFC Spotify Player
 Control Spotify via NFC
